@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
 <h3 align="center">I'm a Mobile Application Developer living in Istanbul, Turkey.</h3>
 
-- 🌱 I’m currently working with **Kotlin, Flutter**
+- 🌱 I’m currently working with **Kotlin, Flutter, GraphQl, SqLite**
 
 - 📫 You can reach me **bbarangungorr@hotmail.com**
 
