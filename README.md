@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Baran</h1>
 <h3 align="center">I'm a Mobile Application Developer living in Istanbul, Turkey.</h3>
 
-- 🌱 I’m currently learning **Kotlin, Flutter**
+- 🌱 I’m currently working with **Kotlin, Flutter**
 
-- 📫 How to reach me **bbarangungorr@hotmail.com**
+- 📫 You can reach me **bbarangungorr@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
